@@ -1,0 +1,3733 @@
+{
+  "player": {
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "containers": [],
+  "terminals": [
+    {
+      "id": "61ed8c7e-2f77-c4d8-29a7-af1ca9a08cf5",
+      "position": {
+        "x": 0.0,
+        "y": 1.45,
+        "z": 4.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": "\n\n\n\n\n\n\n\n\n\t\t<color=#999999>Terminal <color=#FFFFFF>\"{{id}}\"\n\n\n\t\t<color=#999999>Command:\n\t\t<color=#FFFFFF>{{command}}\n\n\n\t\t<color=#999999>{{actionBinding_interact}} - Use"
+    },
+    {
+      "id": "b6b3a4e4-781d-101a-c100-a2e3299f17d5",
+      "position": {
+        "x": 0.502525866,
+        "y": 0.65,
+        "z": 3.81706262
+      },
+      "rotation": {
+        "x": 15.0000162,
+        "y": 7.50000525,
+        "z": -3.31459347e-7
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "acb7dbe3-1382-36a1-5cb9-581f5d1f4a9e",
+      "position": {
+        "x": -0.502525866,
+        "y": 0.65,
+        "z": 3.81706262
+      },
+      "rotation": {
+        "x": 15.0000162,
+        "y": 352.5,
+        "z": 9.833294e-6
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "926af69c-ac3e-5983-892f-540e94833e50",
+      "position": {
+        "x": 0.502525866,
+        "y": 2.25,
+        "z": 3.81706262
+      },
+      "rotation": {
+        "x": 344.999969,
+        "y": 7.49999666,
+        "z": -2.20972908e-7
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "d9b7c877-07bb-04b8-753d-cebf05cb1a63",
+      "position": {
+        "x": -0.502525866,
+        "y": 2.25,
+        "z": 3.81706262
+      },
+      "rotation": {
+        "x": 345.0,
+        "y": 352.5,
+        "z": -9.833294e-6
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "0075529a-749e-b553-811d-29e0f287304c",
+      "position": {
+        "x": 1.03527617,
+        "y": 1.45,
+        "z": 3.86370325
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 15.000001,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "0e79cf48-982f-10ab-fee3-880e4a78bbde",
+      "position": {
+        "x": -1.03527617,
+        "y": 1.45,
+        "z": 3.86370325
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 344.999969,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "cc99543f-3465-12fc-ffc8-800ce8f70bab",
+      "position": {
+        "x": 1.47333121,
+        "y": 0.65,
+        "z": 3.55693626
+      },
+      "rotation": {
+        "x": 15.000001,
+        "y": 22.5,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "26bd19d1-d88b-5e9d-7cc3-6cec1f087eaa",
+      "position": {
+        "x": -1.47333121,
+        "y": 0.65,
+        "z": 3.55693626
+      },
+      "rotation": {
+        "x": 15.0000105,
+        "y": 337.5,
+        "z": 1.98875614e-6
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "c8e7a87a-1db6-c4b1-3c11-56e830176013",
+      "position": {
+        "x": 1.47333121,
+        "y": 2.25,
+        "z": 3.55693626
+      },
+      "rotation": {
+        "x": 344.999939,
+        "y": 22.5,
+        "z": -1.10486474e-6
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "ca23739d-4129-6daa-5f90-87bac4d862f8",
+      "position": {
+        "x": -1.47333121,
+        "y": 2.25,
+        "z": 3.55693626
+      },
+      "rotation": {
+        "x": 345.0,
+        "y": 337.5,
+        "z": -1.32583739e-6
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "d1e6c330-2d50-9d51-4457-39831d7d5457",
+      "position": {
+        "x": 2.0,
+        "y": 1.45,
+        "z": 3.46410155
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 30.0000019,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "fde8ca52-1602-9d16-fb3e-584fe4189c8e",
+      "position": {
+        "x": -2.0,
+        "y": 1.45,
+        "z": 3.46410155
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 330.0,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "4de37bdc-e3e7-ff77-0832-cb64bd6f782b",
+      "position": {
+        "x": 2.3437314,
+        "y": 0.65,
+        "z": 3.05441046
+      },
+      "rotation": {
+        "x": 15.0000038,
+        "y": 37.5,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "68fb09bf-50ab-0ea6-2d5c-c4ff1862baa0",
+      "position": {
+        "x": -2.3437314,
+        "y": 0.65,
+        "z": 3.05441046
+      },
+      "rotation": {
+        "x": 15.000021,
+        "y": 322.5,
+        "z": -2.65167478e-6
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "d784baf9-cbc1-f99b-41cd-6ead2109ba9a",
+      "position": {
+        "x": 2.3437314,
+        "y": 2.25,
+        "z": 3.05441046
+      },
+      "rotation": {
+        "x": 344.999969,
+        "y": 37.49999,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "c8ed5bd7-1775-b26a-0ba5-fe4fe34d95a0",
+      "position": {
+        "x": -2.3437314,
+        "y": 2.25,
+        "z": 3.05441046
+      },
+      "rotation": {
+        "x": 344.999969,
+        "y": 322.5,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "30d8c69b-66c4-e095-4410-738d84ac5a88",
+      "position": {
+        "x": 2.828427,
+        "y": 1.45,
+        "z": 2.828427
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 45.0000038,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "ff3f3067-3f3e-d845-c40f-5506f5bc369c",
+      "position": {
+        "x": -2.828427,
+        "y": 1.45,
+        "z": 2.828427
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 315.0,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "f5de54cd-6cff-74ac-72f0-c3bf5793269f",
+      "position": {
+        "x": 3.05441046,
+        "y": 0.65,
+        "z": 2.3437314
+      },
+      "rotation": {
+        "x": 15.0000105,
+        "y": 52.5000153,
+        "z": 8.8389163e-7
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "89c663bc-02e2-8b3d-91fd-f8871005a2c1",
+      "position": {
+        "x": -3.05441046,
+        "y": 0.65,
+        "z": 2.3437314
+      },
+      "rotation": {
+        "x": 15.0000343,
+        "y": 307.5,
+        "z": -4.41945758e-7
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "a8d45f2c-aef8-fb99-9473-7c6b70328a97",
+      "position": {
+        "x": 3.05441046,
+        "y": 2.25,
+        "z": 2.3437314
+      },
+      "rotation": {
+        "x": 344.999969,
+        "y": 52.50001,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "2beab2f5-10b0-07d5-6132-6acce4562bce",
+      "position": {
+        "x": -3.05441046,
+        "y": 2.25,
+        "z": 2.3437314
+      },
+      "rotation": {
+        "x": 344.999969,
+        "y": 307.5,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "cbbcbb26-e424-492f-63c0-e11f43558419",
+      "position": {
+        "x": 3.46410155,
+        "y": 1.45,
+        "z": 2.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 60.0000038,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "8a56b7d8-5992-e2e7-c50a-62fc49fb33ce",
+      "position": {
+        "x": -3.46410155,
+        "y": 1.45,
+        "z": 2.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 300.0,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "42f1612f-5394-595e-ae20-71d135ffae5a",
+      "position": {
+        "x": 3.55693626,
+        "y": 0.65,
+        "z": 1.47333121
+      },
+      "rotation": {
+        "x": 15.0000105,
+        "y": 67.5,
+        "z": -3.09362053e-6
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "11fe31ae-21b2-1124-1d6f-f0010396e7f0",
+      "position": {
+        "x": -3.55693626,
+        "y": 0.65,
+        "z": 1.47333121
+      },
+      "rotation": {
+        "x": 15.0000019,
+        "y": 292.5,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "dbe35706-1717-7989-c90f-86972283b91e",
+      "position": {
+        "x": 3.55693626,
+        "y": 2.25,
+        "z": 1.47333121
+      },
+      "rotation": {
+        "x": 345.0,
+        "y": 67.5,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "a9829cd5-b525-9417-bbce-76f864521274",
+      "position": {
+        "x": -3.55693626,
+        "y": 2.25,
+        "z": 1.47333121
+      },
+      "rotation": {
+        "x": 344.999969,
+        "y": 292.5,
+        "z": 4.41945872e-7
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "5d30b8aa-e577-1508-a634-7e8e34c39dad",
+      "position": {
+        "x": 3.86370325,
+        "y": 1.45,
+        "z": 1.03527617
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 75.0,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "520bc46b-ee3b-a59d-4bdc-211b415da6ec",
+      "position": {
+        "x": -3.86370325,
+        "y": 1.45,
+        "z": 1.03527617
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 285.0,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "4d495f77-a7d4-8282-4e60-bd88eeb46b68",
+      "position": {
+        "x": 3.81706262,
+        "y": 0.65,
+        "z": 0.502525866
+      },
+      "rotation": {
+        "x": 15.0000076,
+        "y": 82.5,
+        "z": -1.767783e-6
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "af0926f1-29ec-ad35-ac26-08e4e5bfd3a6",
+      "position": {
+        "x": -3.81706262,
+        "y": 0.65,
+        "z": 0.502525866
+      },
+      "rotation": {
+        "x": 15.000021,
+        "y": 277.5,
+        "z": 1.76778326e-6
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "3973092c-0930-d5c2-af42-38bb63b3b2b7",
+      "position": {
+        "x": 3.81706262,
+        "y": 2.25,
+        "z": 0.502525866
+      },
+      "rotation": {
+        "x": 344.999969,
+        "y": 82.5,
+        "z": 2.651675e-6
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "46f29382-a156-11e8-7813-5881d5ae2138",
+      "position": {
+        "x": -3.81706262,
+        "y": 2.25,
+        "z": 0.502525866
+      },
+      "rotation": {
+        "x": 344.999969,
+        "y": 277.5,
+        "z": -1.76778349e-6
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "4f706458-2efc-1a3a-5d29-0e40d4013113",
+      "position": {
+        "x": 4.0,
+        "y": 1.45,
+        "z": 2.44929371e-16
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "8856071c-3d32-c800-4615-4d401e9bc131",
+      "position": {
+        "x": -4.0,
+        "y": 1.45,
+        "z": 2.44929371e-16
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 270.0,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "b4b83c08-99d8-314e-7e1a-68e2f4040802",
+      "position": {
+        "x": 3.81706262,
+        "y": 0.65,
+        "z": -0.502525866
+      },
+      "rotation": {
+        "x": 15.0000076,
+        "y": 97.5,
+        "z": 1.767783e-6
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "a630429d-7104-b866-059d-4350f400e907",
+      "position": {
+        "x": -3.81706262,
+        "y": 0.65,
+        "z": -0.502525866
+      },
+      "rotation": {
+        "x": 15.0000277,
+        "y": 262.5,
+        "z": -1.76778326e-6
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "b89cef9c-7023-c089-b424-a37dd89ca3d4",
+      "position": {
+        "x": 3.81706262,
+        "y": 2.25,
+        "z": -0.502525866
+      },
+      "rotation": {
+        "x": 344.999969,
+        "y": 97.5,
+        "z": -2.651675e-6
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "31acd556-b3bf-046c-80d3-5a8d034485fd",
+      "position": {
+        "x": -3.81706262,
+        "y": 2.25,
+        "z": -0.502525866
+      },
+      "rotation": {
+        "x": 344.999969,
+        "y": 262.5,
+        "z": 8.83891744e-7
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "d688d6d4-702f-ed8a-846d-38d2e3aa976d",
+      "position": {
+        "x": 3.86370325,
+        "y": 1.45,
+        "z": -1.03527617
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 105.0,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "38d8a67c-15c4-f41d-fb81-546e6cc519e0",
+      "position": {
+        "x": -3.86370325,
+        "y": 1.45,
+        "z": -1.03527617
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 255.0,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "f3c95781-12b1-43ba-e47f-e682efed8dd7",
+      "position": {
+        "x": 3.55693626,
+        "y": 0.65,
+        "z": -1.47333121
+      },
+      "rotation": {
+        "x": 15.0000105,
+        "y": 112.5,
+        "z": 3.09362053e-6
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "bff106ed-700a-fda0-f7e0-23865fdccac2",
+      "position": {
+        "x": -3.55693626,
+        "y": 0.65,
+        "z": -1.47333121
+      },
+      "rotation": {
+        "x": 15.0000019,
+        "y": 247.499985,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "3ae7845d-5ec9-8f80-bba0-658f81874794",
+      "position": {
+        "x": 3.55693626,
+        "y": 2.25,
+        "z": -1.47333121
+      },
+      "rotation": {
+        "x": 345.0,
+        "y": 112.5,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "bca689ed-8ab0-5bf8-afad-d2389c64f6d2",
+      "position": {
+        "x": -3.55693626,
+        "y": 2.25,
+        "z": -1.47333121
+      },
+      "rotation": {
+        "x": 344.999969,
+        "y": 247.5,
+        "z": -4.41945872e-7
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "cf62bc09-cb52-a3eb-3f8f-f5b1cad35169",
+      "position": {
+        "x": 3.46410155,
+        "y": 1.45,
+        "z": -2.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 120.000008,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "cb50428f-6afd-a33a-237b-d1122b1cbdc8",
+      "position": {
+        "x": -3.46410155,
+        "y": 1.45,
+        "z": -2.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 240.0,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "2dea64ed-77cf-7891-c574-7a916be0d0ba",
+      "position": {
+        "x": 3.05441046,
+        "y": 0.65,
+        "z": -2.3437314
+      },
+      "rotation": {
+        "x": 15.0000162,
+        "y": 127.5,
+        "z": -4.41945815e-7
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "64af2662-a0da-3b9b-ce7f-4fe1a41d2f41",
+      "position": {
+        "x": -3.05441046,
+        "y": 0.65,
+        "z": -2.3437314
+      },
+      "rotation": {
+        "x": 15.0000343,
+        "y": 232.5,
+        "z": 4.41945758e-7
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "ac7a0786-f3b4-0a94-7c89-197a069ba147",
+      "position": {
+        "x": 3.05441046,
+        "y": 2.25,
+        "z": -2.3437314
+      },
+      "rotation": {
+        "x": 344.999969,
+        "y": 127.5,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "0a96326d-bd17-0732-1cd4-222c0c414b74",
+      "position": {
+        "x": -3.05441046,
+        "y": 2.25,
+        "z": -2.3437314
+      },
+      "rotation": {
+        "x": 344.999969,
+        "y": 232.5,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "7e21acec-a33b-fc6d-75bd-e83cde6d6dbd",
+      "position": {
+        "x": 2.828427,
+        "y": 1.45,
+        "z": -2.828427
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 135.0,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "18312e7d-c3c1-7e28-c034-31e58ec51537",
+      "position": {
+        "x": -2.828427,
+        "y": 1.45,
+        "z": -2.828427
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 224.999985,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "d1574ef1-f80b-d2f8-cb2c-6b1d2a69c72f",
+      "position": {
+        "x": 2.3437314,
+        "y": 0.65,
+        "z": -3.05441046
+      },
+      "rotation": {
+        "x": 15.000001,
+        "y": 142.5,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "664234d9-0376-25c0-4578-fd5aeaba4f3a",
+      "position": {
+        "x": -2.3437314,
+        "y": 0.65,
+        "z": -3.05441046
+      },
+      "rotation": {
+        "x": 15.0000019,
+        "y": 217.5,
+        "z": 0.0
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "e7b96027-561c-8617-0f7e-39a72ecf4bbf",
+      "position": {
+        "x": 2.3437314,
+        "y": 2.25,
+        "z": -3.05441046
+      },
+      "rotation": {
+        "x": 344.999969,
+        "y": 142.5,
+        "z": -4.41945872e-7
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    },
+    {
+      "id": "f661032a-790f-a7a7-f106-8fe02d2b5786",
+      "position": {
+        "x": -2.3437314,
+        "y": 2.25,
+        "z": -3.05441046
+      },
+      "rotation": {
+        "x": 344.999969,
+        "y": 217.5,
+        "z": 4.41945872e-7
+      },
+      "skipProcessStart": false,
+      "console": {
+        "command": "pwsh",
+        "args": [],
+        "cwd": ".",
+        "env": {},
+        "columns": 80,
+        "rows": 32
+      },
+      "camera": {
+        "fov": 30.0,
+        "distance": 1.5
+      },
+      "monitorSize": {
+        "x": 1.0,
+        "y": 0.75
+      },
+      "canvasSize": {
+        "x": 640.0,
+        "y": 480.0
+      },
+      "canvasScale": {
+        "x": 0.0015,
+        "y": 0.0015
+      },
+      "fontSize": 12.0,
+      "cursorBarShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 14.7
+      },
+      "cursorBlockShapeRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.4,
+        "height": 14.7
+      },
+      "cursorUnderlineShapeRect": {
+        "x": 0.0,
+        "y": -13.7,
+        "width": 7.4,
+        "height": 1.0
+      },
+      "cursorCharacterSize": {
+        "x": 7.4,
+        "y": -14.75
+      },
+      "highlightTextTemplate": "",
+      "defaultIdleTextTemplate": ""
+    }
+  ]
+}

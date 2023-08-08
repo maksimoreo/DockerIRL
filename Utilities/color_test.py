@@ -1,0 +1,28 @@
+# Sample program to test terminal color output
+
+# Reference: https://en.wikipedia.org/wiki/ANSI_escape_code#Colors
+
+print()
+print("This is a quick visual color test :)")
+print("\033[90m  Run me with \033[100m python Utilities/color_test.py \033[0;90m command\033[0m")
+print("\033[90m  Reference: https://en.wikipedia.org/wiki/ANSI_escape_code#Colors\033[0m")
+print()
+print("ESC[30m: \033[30muwu\033[0m, ESC[40m:  \033[40m uwu \033[0m,        Black")
+print("ESC[31m: \033[31muwu\033[0m, ESC[41m:  \033[41m uwu \033[0m,        Red")
+print("ESC[32m: \033[32muwu\033[0m, ESC[42m:  \033[42m uwu \033[0m,        Green")
+print("ESC[33m: \033[33muwu\033[0m, ESC[43m:  \033[43m uwu \033[0m,        Yellow")
+print("ESC[34m: \033[34muwu\033[0m, ESC[44m:  \033[44m uwu \033[0m,        Blue")
+print("ESC[35m: \033[35muwu\033[0m, ESC[45m:  \033[45m uwu \033[0m,        Magenta")
+print("ESC[36m: \033[36muwu\033[0m, ESC[46m:  \033[46m uwu \033[0m,        Cyan")
+print("ESC[37m: \033[37muwu\033[0m, ESC[47m:  \033[47m uwu \033[0m,        White")
+print("ESC[90m: \033[90muwu\033[0m, ESC[100m: \033[100m uwu \033[0m, Bright Black")
+print("ESC[91m: \033[91muwu\033[0m, ESC[101m: \033[101m uwu \033[0m, Bright Red")
+print("ESC[92m: \033[92muwu\033[0m, ESC[102m: \033[102m uwu \033[0m, Bright Green")
+print("ESC[93m: \033[93muwu\033[0m, ESC[103m: \033[103m uwu \033[0m, Bright Yellow")
+print("ESC[94m: \033[94muwu\033[0m, ESC[104m: \033[104m uwu \033[0m, Bright Blue")
+print("ESC[95m: \033[95muwu\033[0m, ESC[105m: \033[105m uwu \033[0m, Bright Magenta")
+print("ESC[96m: \033[96muwu\033[0m, ESC[106m: \033[106m uwu \033[0m, Bright Cyan")
+print("ESC[97m: \033[97muwu\033[0m, ESC[107m: \033[107m uwu \033[0m, Bright White")
+print()
+print("bye o/\033[0m")
+print()

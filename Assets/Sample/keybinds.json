@@ -1,0 +1,32 @@
+{
+  "bindings": [
+    {
+      "action": "Player/Jump",
+      "id": "1bd55a0b-761e-4ae4-89ae-8ec127e08a29",
+      "path": "<Keyboard>/space",
+      "interactions": "null",
+      "processors": "null"
+    },
+    {
+      "action": "Interact",
+      "id": "2b9cc9cf-e97e-487f-88bf-eb8a9e892d7a",
+      "path": "<Mouse>/leftButton",
+      "interactions": "null",
+      "processors": "null"
+    },
+    {
+      "action": "Reload",
+      "id": "553ec9e8-5f06-4848-9815-ddf36a1dc0a7",
+      "path": "<Keyboard>/r",
+      "interactions": "null",
+      "processors": "null"
+    },
+    {
+      "action": "Quit",
+      "id": "553ec9e8-5f06-4848-9815-ddf36a1dc0a7",
+      "path": "<Keyboard>/q",
+      "interactions": "null",
+      "processors": "null"
+    }
+  ]
+}
